@@ -5,3 +5,4 @@ In this repository is my study log/project collection for learning the **ESP32-C
 | Log number | Title | Description |
 |---|---|---|
 | 01 | Blink LED then send text to Serial monitor | Turn LED on/off; print LED on or off to Serial Monitor based on the LED; using  `digitalWrite()`, `pinMode()`, `Serial.begin()`, `delay()` |
+| 02 | HS-SR04 measure distance displacement on serial monitor | There is a problem with the echo causing fast echo, needs fixing, it still measures distance, but with a fast trig and echo |
